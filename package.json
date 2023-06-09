@@ -16,16 +16,8 @@
     "start:dev": "tsnd --rs ./src/index.ts",
     "semantic-release": "semantic-release"
   },
-  "author": "Lucas Santos <hello@lsantos.dev>",
+  "author": "Wesley Lins <wesleylins.soares@gmail.com>",
   "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/lhs.santoss@gmail.com/template-node-ts/issues"
-  },
-  "homepage": "https://github.com/lhs.santoss@gmail.com/template-node-ts#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lhs.santoss@gmail.com/template-node-ts"
-  },
   "devDependencies": {
     "@commitlint/cli": "^17.1.1",
     "@commitlint/config-conventional": "^17.1.0",
